@@ -1,7 +1,6 @@
-package qa.practice;
-
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import qa.practice.VacationsService;
 
 
 public class VacationsServiceTest {
